@@ -5,3 +5,6 @@ Let's goooo
 - Farand Effraim
 - Izhar Fahmi
 - Jeneri Bayu Nugroho
+
+Link Figma 
+https://www.figma.com/file/BXAIUvr4A9GZYJsV0nqp7D/Untitled?type=design&node-id=0%3A1&mode=dev&t=Qto0dIXlgXfjuwfi-1
